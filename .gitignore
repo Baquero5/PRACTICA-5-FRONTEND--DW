@@ -72,7 +72,7 @@ out/
 
 # Gatsby (si migras en el futuro)
 .cache/
-public/
+# public/ - NO ignorar en React
 
 # Editor files
 *.sublime-workspace
